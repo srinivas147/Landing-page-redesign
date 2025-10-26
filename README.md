@@ -6,6 +6,7 @@ Design Details
 Tool Used: Figma
 
 Font: Inter & Cairo
+
 **Figma Design Link:**[view on figma](https://www.figma.com/design/978rMUfIo7lE4VFrNzQpNc/Untitled?node-id=51-3&t=1tu5SWLY6NyfQj9y-1)
 
 
