@@ -1,4 +1,4 @@
-# Landing-page-redesign
+# Task-4 Landing-page-redesign
 A modern redesign of the Shri Nehru Maha vidyalaya College of Arts and Science website focusing on a clean layout, easy navigation, and improved student engagement. The design enhances clarity, responsiveness, and the overall academic brand identity.
 
 Design Details
